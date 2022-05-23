@@ -8,6 +8,7 @@ import java.net.URL;
 public class UtilityFile {
 
     private String urlString;
+
     private String saveDir;
 
     public UtilityFile(String saveDir) {
